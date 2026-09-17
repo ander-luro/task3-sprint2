@@ -1,0 +1,44 @@
+[{
+  "_id": {
+    "$oid": "6aabaef43488bb55e5698888"
+  },
+  "brand": "Ray-Ban",
+  "frame": {
+    "type": "Metallic",
+    "color": "Black"
+  },
+  "price": 127,
+  "supplier_id": {
+    "$oid": "6aabaef43488bb567ab97312"
+  },
+  "bought_by_clients": [
+    {
+      "$oid": "6aabaef43488bb55e5697312"
+    },
+    {
+      "$oid": "6aabaef43488bb55e5785647"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6aac2c643488bb55e5697335"
+  },
+  "brand": "Hugo Boss",
+  "frame": {
+    "type": "Flotant",
+    "color": "Silver"
+  },
+  "price": 104.99,
+  "supplier_id": {
+    "$oid": "6aab7a6c3488bb567ab97796"
+  },
+  "bought_by_clients": [
+    {
+      "$oid": "6aabaef43488bb55e5785647"
+    },
+    {
+      "$oid": "6aabaef43488bb55e5697312"
+    }
+  ]
+}]

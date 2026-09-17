@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "6aabaef43488bb55e5697312"
+  },
+  "name": "Biel Martinez",
+  "address": {
+    "city": "Barcelona",
+    "country": "Spain",
+    "street": "Carrer Monturiol",
+    "number": "16",
+    "floor": "3",
+    "door": "Izq",
+    "zip_code": "08240"
+  },
+  "phone": "672831947",
+  "email": "biel.mar@gmail.com",
+  "registration_date": "2025-03-01"
+},
+{
+  "_id": {
+    "$oid": "6aabaef43488bb55e5785647"
+  },
+  "name": "Carol Matas",
+  "address": {
+    "city": "Barberà del Vallés",
+    "country": "Spain",
+    "street": "Carrer Marquesos",
+    "number": "31",
+    "floor": "5",
+    "door": "Centro",
+    "zip_code": "08210"
+  },
+  "phone": "671982736",
+  "email": "carol.matas@gmail.com",
+  "registration_date": "2026-02-14"
+}]

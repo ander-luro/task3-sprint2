@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "6aabaef43488bb567ab97312"
+  },
+  "name": "Optics Global",
+  "address": {
+    "city": "Girona",
+    "country": "Spain",
+    "street": "Carrer del Bosc",
+    "number": "123",
+    "floor": "2",
+    "door": "Izq",
+    "zip_code": "17001"
+  },
+  "phone": "678567722",
+  "fax": "678567723",
+  "NIF": "B12345678"
+},
+{
+  "_id": {
+    "$oid": "6aab7a6c3488bb567ab97796"
+  },
+  "name": "Optics Sea",
+  "address": {
+    "city": "Barcelona",
+    "country": "Spain",
+    "street": "Carrer Marina",
+    "number": "48",
+    "floor": "2",
+    "door": "B",
+    "zip_code": "08067"
+  },
+  "phone": "767897755",
+  "fax": "767897756",
+  "NIF": "F75678456"
+}]
